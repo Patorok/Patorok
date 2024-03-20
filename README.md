@@ -34,7 +34,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,php,nodejs,bootstrap,html,css,mysql,phpstorm,postman&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,php,nodejs,bootstrap,html,css,mysql,phpstorm,postman&perline=6)](https://skillicons.dev)
 
 ###
 
@@ -42,7 +42,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,docker,linux,ubuntu,sqlite,sass&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=laravel,docker,linux,ubuntu,sqlite,sass&perline=6)](https://skillicons.dev)
 
 ###
 
@@ -51,9 +51,5 @@
 ###
 
 [![My Skills](https://skillicons.dev/icons?i=tailwind,firebase&perline=5)](https://skillicons.dev)
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
