@@ -26,7 +26,14 @@
 
 ###
 
-<p align="left">I'm Patrick Jacinto a 4th year college student at Bulacan State University, pursuing Bachelor of Science in Information Technology.<br><br>- 🔭 I’m working as intern at LexMeet, Inc.<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Patrick Jacinto a 4th year college student at Bulacan State University, pursuing Bachelor of Science in Information Technology.
+  <br><br>
+  <ul>
+    <li>🔭 I’m working as intern at LexMeet, Inc.</li>
+    <li>🎹 I enjoy playing the piano in my free time</li>
+    <li>🎮 I'm passionate about gaming</li>
+  </ul>
+</p>
 
 ###
 
