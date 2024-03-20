@@ -26,31 +26,31 @@
 
 ###
 
-<p align="left">I'm Patrick Jacinto from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Patrick Jacinto a 4th year college student at Bulacan State University, pursuing Bachelor of Science in Information Technology.<br><br>- 🔭 I’m working as intern at LexMeet, Inc.<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools:</h3>
 
 ###
-[![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,php,bootstrap,html,css&perline=5)](https://skillicons.dev)
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-</div>
+
+[![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,php,nodejs,bootstrap,html,css,mysql,phpstorm,postman&perline=5)](https://skillicons.dev)
+
+###
+
+<h3 align="left">📚 Currently studying:</h3>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,docker,linux,ubuntu,sqlite,sass&perline=5)](https://skillicons.dev)
+
+###
+
+<h3 align="left">💡 I'm interested to study next:</h3>
+
+###
+
+[![My Skills](https://skillicons.dev/icons?i=tailwind,firebase&perline=5)](https://skillicons.dev)
 
 ###
 
