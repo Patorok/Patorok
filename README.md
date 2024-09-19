@@ -42,7 +42,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,php,nodejs,bootstrap,tailwind,html,css,mysql,phpstorm,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,laravel,php,nodejs,bootstrap,tailwind,html,css,mysql&perline=6)](https://skillicons.dev)
 
 ###
 
