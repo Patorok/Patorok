@@ -26,12 +26,13 @@
 
 ###
 
-<p align="left">I'm Patrick Jacinto a 4th year college student at Bulacan State University, pursuing Bachelor of Science in Information Technology.
+<p align="left">I'm Patrick Jacinto,I pursued Bachelor of Science in Information Technology and graduated at Bulacan State University.
   <br><br>
   <ul>
-    <li>🔭 I’m working as intern at LexMeet, Inc.</li>
-    <li>🎹 I enjoy playing the piano in my free time</li>
+    <li>🔭 I become an intern at LexMeet, Inc as Web dev</li>
+    <li>🎹 I enjoy playing piano in my free time</li>
     <li>🎮 I'm passionate about gaming</li>
+    <li>🖥️ I love building desktop pc</li>
   </ul>
 </p>
 
@@ -41,7 +42,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,php,nodejs,bootstrap,html,css,mysql,phpstorm,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,php,nodejs,bootstrap,tailwind,html,css,mysql,phpstorm,postman&perline=6)](https://skillicons.dev)
 
 ###
 
@@ -49,7 +50,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,docker,linux,ubuntu,sqlite,sass&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,python,aws&perline=6)](https://skillicons.dev)
 
 ###
 
@@ -57,6 +58,6 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=tailwind,firebase&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,react&perline=5)](https://skillicons.dev)
 
 ###
