@@ -42,7 +42,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=angular,ts,js,laravel,php,nodejs,bootstrap,tailwind,html,css,mysql&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,laravel,js,ts,nodejs,aws,mysql,docker&perline=6)](https://skillicons.dev)
 
 ###
 
@@ -50,7 +50,7 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=linux,python,aws&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=electron,python,nextjs&perline=6)](https://skillicons.dev)
 
 ###
 
@@ -58,6 +58,6 @@
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=docker,react&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=express&perline=5)](https://skillicons.dev)
 
 ###
