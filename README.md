@@ -29,7 +29,8 @@
 <p align="left">I'm Patrick Jacinto,I pursued Bachelor of Science in Information Technology and graduated at Bulacan State University.
   <br><br>
   <ul>
-    <li>🔭 I become an intern at LexMeet, Inc as Web dev</li>
+    <li>⌨️ IT Application Support Analyst</li>
+    <li>🧑‍💻 Currently working at Citco Group Limited</li>
     <li>🎹 I enjoy playing piano in my free time</li>
     <li>🎮 I'm passionate about gaming</li>
     <li>🖥️ I love building desktop pc</li>
