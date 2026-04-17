@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm Patrick Jacinto,I pursued Bachelor of Science in Information Technology and graduated at Bulacan State University.
+<p align="left">As an aspiring person with a strong interest in becoming a developer in both front-end and back-end, I am diligently seeking opportunities to grow and broaden my skills as an IT Developer. 
   <br><br>
   <ul>
     <li>⌨️ IT Application Support Analyst</li>
